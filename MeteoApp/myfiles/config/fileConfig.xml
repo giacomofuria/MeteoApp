@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ParametriConfigurazioneXML>
+    <nomeUtenteApplicazione>Giacomo</nomeUtenteApplicazione>
+    <nomeUtenteArchivio>root</nomeUtenteArchivio>
+    <passwordArchivio></passwordArchivio>
+    <indirizzoIPServerLog>127.0.0.1</indirizzoIPServerLog>
+    <portaServerLog>80</portaServerLog>
+    <unitaTemperatura>°C</unitaTemperatura>
+    <unitaUmidita>%</unitaUmidita>
+    <numeroMaxCittaPreferite>2</numeroMaxCittaPreferite>
+</ParametriConfigurazioneXML>
